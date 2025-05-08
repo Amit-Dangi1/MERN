@@ -1848,6 +1848,7 @@ function data() {
       return a;
 }
 
+// prnaal
 function card() {
     let d = data();
  
